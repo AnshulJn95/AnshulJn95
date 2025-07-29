@@ -17,7 +17,7 @@
 | 🚀 Project | What it does | Stack |
 |------------|--------------|-------|
 | **Intelligent Document Agents** | Multi-agent pipeline that classifies, validates & auto-summarises enterprise docs | Python · LangChain · pgvector |
-| **Qt SVG Renderer** | Ultra-fast SVG engine for Siemens HMIs, benchmarked on Qt 6.8 & Qt 5 | C++ · QML · RTPU |
+| **Qt SVG Renderer** | Ultra-fast SVG engine for HMIs, benchmarked on Qt 6.8 & Qt 5 | C++ · QML · RTPU |
 | **MegaBlog** | Rich-text blogging with auth, uploads & live editing | React · Appwrite · TinyMCE |
 | **GPS Attendance** | Geofenced check-in/out with Haversine distance & real-time dashboard | Node · Express · MongoDB |
 | **HarmonyHub** | Real-time C++ synth + 16-step sequencer (sub-ms latency) | C++ · WinMM · DSP |
